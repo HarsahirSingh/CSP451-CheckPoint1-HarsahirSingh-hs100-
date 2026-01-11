@@ -1,1 +1,1 @@
-console.log("Checkpoint 1 JavaScript loaded successfully");
+console.log("The Checkpoint 1 JavaScript loaded successfully");
